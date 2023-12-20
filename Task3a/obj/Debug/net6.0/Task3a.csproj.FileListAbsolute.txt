@@ -1,0 +1,15 @@
+D:\console projects\Task3a\bin\Debug\net6.0\Task3a.exe
+D:\console projects\Task3a\bin\Debug\net6.0\Task3a.deps.json
+D:\console projects\Task3a\bin\Debug\net6.0\Task3a.runtimeconfig.json
+D:\console projects\Task3a\bin\Debug\net6.0\Task3a.dll
+D:\console projects\Task3a\bin\Debug\net6.0\Task3a.pdb
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.csproj.AssemblyReference.cache
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.AssemblyInfoInputs.cache
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.AssemblyInfo.cs
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.csproj.CoreCompileInputs.cache
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.dll
+D:\console projects\Task3a\obj\Debug\net6.0\refint\Task3a.dll
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.pdb
+D:\console projects\Task3a\obj\Debug\net6.0\Task3a.genruntimeconfig.cache
+D:\console projects\Task3a\obj\Debug\net6.0\ref\Task3a.dll
